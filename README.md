@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Kaeiry
+- 🌱 I’m currently learning developpement
